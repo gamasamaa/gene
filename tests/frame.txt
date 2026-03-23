@@ -1,0 +1,13 @@
+Block	Column	Row	ID	Name
+1	1	1	P1	"Punto 1 fila 1 columna 1"
+1	2	1	P2	"Punto 2 fila 1 columna 2"
+1	3	1	P3	"Punto 3 fila 1 columna 3"
+1	1	2	P4	"Punto 4 fila 2 columna 1"
+1	2	2	P5	"Punto 5 fila 2 columna 2"
+1	3	2	P6	"Punto 6 fila 2 columna 3"
+1	1	3	P7	"Punto 7 fila 3 columna 1"
+1	2	3	P8	"Punto 8 fila 3 columna 2"
+1	3	3	P9	"Punto 9 fila 3 columna 3"
+1	1	4	P10	"Punto 10 fila 4 columna 1"
+1	2	4	P11	"Punto 11 fila 4 columna 2"
+1	3	4	P12	"Punto 12 fila 4 columna 3"	

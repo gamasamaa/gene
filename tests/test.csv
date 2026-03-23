@@ -1,0 +1,13 @@
+ID,Name,X Coordinate,Y Coordinate,Radius
+P1,Punto 1 fila 1 columna 1,319,265,22
+P2,Punto 2 fila 1 columna 2,502,268,23
+P3,Punto 3 fila 1 columna 3,718,247,24
+P4,Punto 4 fila 2 columna 1,324,455,27
+P5,Punto 5 fila 2 columna 2,490,464,28
+P6,Punto 6 fila 2 columna 3,729,465,26
+P7,Punto 7 fila 3 columna 1,328,726,29
+P8,Punto 8 fila 3 columna 2,505,712,24
+P9,Punto 9 fila 3 columna 3,724,712,25
+P10,Punto 10 fila 4 columna 1,334,964,29
+P11,Punto 11 fila 4 columna 2,487,945,25
+P12,Punto 12 fila 4 columna 3,721,962,25
